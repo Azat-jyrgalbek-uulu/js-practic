@@ -58,6 +58,12 @@ if (hamburger && cola || fries === 3 && nuggets) {
    console.log('Done!')
 }
 
+for(let num = 1; num <= 200; num = num + 1){
+    if(num === 200){
+        num = num * 2;
+        console.log(num);
+    }
+};
 
 
 
